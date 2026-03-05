@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import "../App.css";
-import { data } from 'react-router-dom';
 
 const Products = () => {
   const [products , setProducts] = useState([]);
