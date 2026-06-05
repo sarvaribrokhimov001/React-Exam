@@ -32,10 +32,10 @@ const EditModal = ({editId, setEditModal}) => {
 
   return (
     <div className='w-full h-screen absolute top-0 left-0 backdrop-blur-2xl flex'>
-        <form className='w-[470px] h-[450px] flex flex-col justify-center items-center m-auto border border-gray-500 bg-black rounded-[30px] 
+        <form className='w-[470px] h-[300px] flex flex-col justify-center items-center m-auto border border-gray-500 bg-black rounded-[30px] 
            gap-[12px] pt-[20px]' onSubmit={handleSubmit}>
               <input 
-                className='rounded-[10px] bg-black text-red-500 focus:text-green-500 p-2 border border-red-700 w-[390px] h-[60px]' 
+                className='rounded-[15px] bg-black text-red-500 focus:text-green-500 p-2 border border-red-700 w-[390px] h-[60px] font-bold text-[20px] pl-5' 
                 onChange={handleChange} 
                 type="text" 
                 name="todo"

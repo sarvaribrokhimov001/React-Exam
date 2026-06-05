@@ -56,7 +56,7 @@ const Todo = () => {
           value={addTodo.todo}
           name='todo'
           placeholder="Add new Todo" 
-          className="w-[220px] h-[40px] bg-gray-800 rounded-[20px] pl-[20px] focus:bg-black focus:text-red-700 capitalize font-bold text-[18px]" />
+          className="w-[300px] h-[40px] bg-gray-800 rounded-[20px] pl-[25px] focus:bg-black focus:text-red-700 capitalize font-bold text-[18px]" />
       </form>
       <button onClick={handleSubmit}
       className="w-[130px] h-[35px] rounded-[20px] bg-black text-green-600 font-bold border-[5px] text-[17px] border-green-600 hover:bg-green-600 hover:text-white hover: border-[5px] hover:border-white"> +AddBtn </button>

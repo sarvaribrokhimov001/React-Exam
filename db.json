@@ -181,38 +181,12 @@
       "userId": 142
     },
     {
-      "addTodo": "",
-      "": "dddsfsd",
-      "id": "hz_KEo90I1Q"
+      "todo": "i want to go to school",
+      "id": "C_3Iz51E1r0"
     },
     {
-      "addTodo": "",
-      "todo": "sarvar",
-      "id": "CZKj0p_UyCw"
-    },
-    {
-      "addTodo": "",
-      "todo": "sarvar",
-      "id": "qKzQON7_Cl4"
-    },
-    {
-      "addTodo": "",
-      "todo": "asfsd",
-      "id": "TV1V_AkEZw8"
-    },
-    {
-      "addTodo": "",
-      "todo": "dgdgjhf",
-      "id": "KFypMXoXHgY"
-    },
-    {
-      "addTodo": "",
-      "todo": "sdbdjs",
-      "id": "1aLB_LNJ4KU"
-    },
-    {
-      "todo": "sdfsdfs",
-      "id": "nf8B-sidzsY"
+      "todo": "i want to eat ice cream",
+      "id": "cccTwXd8xQw"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
